@@ -1,0 +1,15 @@
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\obj\Debug\net7.0\Task_60.csproj.AssemblyReference.cache
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\obj\Debug\net7.0\Task_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\obj\Debug\net7.0\Task_60.AssemblyInfoInputs.cache
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\obj\Debug\net7.0\Task_60.AssemblyInfo.cs
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\obj\Debug\net7.0\Task_60.csproj.CoreCompileInputs.cache
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\bin\Debug\net7.0\Task_60.exe
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\bin\Debug\net7.0\Task_60.deps.json
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\bin\Debug\net7.0\Task_60.runtimeconfig.json
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\bin\Debug\net7.0\Task_60.dll
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\bin\Debug\net7.0\Task_60.pdb
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\obj\Debug\net7.0\Task_60.dll
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\obj\Debug\net7.0\refint\Task_60.dll
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\obj\Debug\net7.0\Task_60.pdb
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\obj\Debug\net7.0\Task_60.genruntimeconfig.cache
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_60\obj\Debug\net7.0\ref\Task_60.dll
