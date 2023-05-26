@@ -1,0 +1,15 @@
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\bin\Debug\net7.0\Task_58.exe
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\bin\Debug\net7.0\Task_58.deps.json
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\bin\Debug\net7.0\Task_58.runtimeconfig.json
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\bin\Debug\net7.0\Task_58.dll
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\bin\Debug\net7.0\Task_58.pdb
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\obj\Debug\net7.0\Task_58.csproj.AssemblyReference.cache
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\obj\Debug\net7.0\Task_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\obj\Debug\net7.0\Task_58.AssemblyInfoInputs.cache
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\obj\Debug\net7.0\Task_58.AssemblyInfo.cs
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\obj\Debug\net7.0\Task_58.csproj.CoreCompileInputs.cache
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\obj\Debug\net7.0\Task_58.dll
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\obj\Debug\net7.0\refint\Task_58.dll
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\obj\Debug\net7.0\Task_58.pdb
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\obj\Debug\net7.0\Task_58.genruntimeconfig.cache
+C:\Users\Anton\OneDrive\Учеба\Учёба\с#\DZ8\Task_58\obj\Debug\net7.0\ref\Task_58.dll
